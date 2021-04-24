@@ -4,4 +4,6 @@ Herbie is a Mars Rover built from JPL's open source rover (OSR). I'm currently w
 
 ![alt text](https://github.com/cameronapriest/herbie/blob/main/herbie.jpg?raw=true)
 
+Herbie's logo:
+
 ![alt text](https://github.com/cameronapriest/herbie/blob/main/herbielogo.png?raw=true)
