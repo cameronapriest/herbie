@@ -15,3 +15,4 @@ I'm currently working on implementing an autonomous person following algorithm s
 Herbie's logo:
 
 ![alt text](https://github.com/cameronapriest/herbie/blob/main/herbielogo.png?raw=true)
+<img src="https://github.com/cameronapriest/herbie/blob/main/herbielogo.png?raw=true" width="100" height="100">
