@@ -2,6 +2,7 @@
 
 Herbie is a Mars Rover based on [JPL's open source rover](https://github.com/nasa-jpl/open-source-rover) (OSR). In fall 2020 and winter 2021 I led a team of 5 computer engineering majors aiming to advance the rover closer to an autonomous state. As the third team of students to work on Herbie, we were given the rover in a partially operational state. 
 
+<div align="center">
 <img src="https://github.com/cameronapriest/herbie/blob/main/herbie.jpg?raw=true" width="800">
 
 **Herbie Mark I, October 2020**
