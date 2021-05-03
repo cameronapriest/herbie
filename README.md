@@ -16,4 +16,4 @@ I'm currently working on implementing an autonomous person following algorithm s
 
 Herbie's logo:
 
-<img src="https://github.com/cameronapriest/herbie/blob/main/herbielogo.png?raw=true" width="400" height="400">
+<img src="https://github.com/cameronapriest/herbie/blob/main/herbielogo.png?raw=true" width="300">
